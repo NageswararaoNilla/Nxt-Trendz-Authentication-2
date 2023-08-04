@@ -62,8 +62,8 @@
   align-self: flex-end;
   flex: 1;
   list-style-type: none;
-  margin-top: 0px;
-  margin-bottom: 0px;
+  /* margin-top: 0px;
+  margin-bottom: 0px; */
 }
 
 @media screen and (max-width: 767px) {
@@ -102,6 +102,7 @@
   font-weight: 400;
   font-size: 16px;
   color: #475569;
+  text-decoration: none;
 }
 
 .nav-menu-item-mobile {
